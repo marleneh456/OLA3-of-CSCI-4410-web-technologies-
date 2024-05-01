@@ -1,0 +1,41 @@
+/* Name: Marlene Habib */
+/* Instructor: Dr. Yang */
+/* OLA 3 */
+/* cash.css */
+/* Date: 02-27-2024 */
+/* Due Date: 02-27-2024 */
+
+/* Style for body */
+body {
+    background-color: #6675a8;
+}
+
+/* Style for heading 1 */
+h1{
+    font-family: Arial;
+    text-align: center;
+    color: #66b8eb;
+}
+
+/* Style for divide */
+div {
+  background-color: #f79c0d;
+  width: 370px;
+  border: 10px solid #e8cc7d;
+  margin: auto;
+}
+
+/* Style for button */
+button {
+    margin: 60px 20px 70px 50px;
+    padding: 10px;
+    background-color: #4fcca3;
+    color: white;
+    border: 10px solid #246959;
+    font-size: 25px;
+}
+
+/* Style for button hover */
+button:hover {
+    background-color: #88cc00;
+}
